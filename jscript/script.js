@@ -89,32 +89,32 @@ function logo_link_swap_small(){
 
 
 function to_light(){
-    document.getElementById("mainlogo1").setAttribute("src", "./logos/haryana9.png");
-    document.getElementById("mainlogo").setAttribute("src", "./logos/haryana4-light.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "./logos/haryana-light.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://drive.google.com/uc?id=1f2iw0Eoc-Q__OiSC4uZGy0zKePE5_3zO");//h9
+    document.getElementById("mainlogo").setAttribute("src", "https://drive.google.com/uc?id=1LzCy3ZGkcNAuqlELfOEXB0miZWalb2CQ");//4light
+    document.getElementById("small-screen-logo").setAttribute("src", "https://drive.google.com/uc?id=1bMo7mF9rbE6-LU54H_ESub57tZhfCZ9f");//light
     document.getElementById("scroll-logo").style.color = "#efd033";
     document.getElementById("light-dark-button").textContent = "Dark Mode";
     document.getElementById("favicon").setAttribute("href", "favicons/favicon_blue_blue.ico");
 }
 function to_light_2(){
-    document.getElementById("mainlogo1").setAttribute("src", "./logos/haryana9.png");
-    document.getElementById("mainlogo").setAttribute("src", "./logos/haryana4-light.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "./logos/haryana-light.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://drive.google.com/uc?id=1f2iw0Eoc-Q__OiSC4uZGy0zKePE5_3zO");
+    document.getElementById("mainlogo").setAttribute("src", "https://drive.google.com/uc?id=1LzCy3ZGkcNAuqlELfOEXB0miZWalb2CQ");
+    document.getElementById("small-screen-logo").setAttribute("src", "https://drive.google.com/uc?id=1bMo7mF9rbE6-LU54H_ESub57tZhfCZ9f");
     document.getElementById("scroll-logo").style.color = "#efd033";
     document.getElementById("light-dark-button-2").textContent = "Dark Mode";
 }
 function to_dark(){
-    document.getElementById("mainlogo1").setAttribute("src", "./logos/haryana7.png");
-    document.getElementById("mainlogo").setAttribute("src", "./logos/haryana4.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "./logos/haryana.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://drive.google.com/uc?id=1km3zGQKPfZHPsj8owbjz92eVCOqVDACP");//h7
+    document.getElementById("mainlogo").setAttribute("src", "https://drive.google.com/uc?id=1bHj26TMEJ-1FGljnQurZcMBp2UEKamHq");//h4
+    document.getElementById("small-screen-logo").setAttribute("src", "https://drive.google.com/uc?id=1BdfMsOgw8mFt4J852fh3JUdT4nzYeSxs");//h
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button").textContent = "Light Mode";
     document.getElementById("favicon").setAttribute("href", "favicons/favicon.ico");
 }
 function to_dark_2(){
-    document.getElementById("mainlogo1").setAttribute("src", "./logos/haryana7.png");
-    document.getElementById("mainlogo").setAttribute("src", "./logos/haryana4.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "./logos/haryana.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://drive.google.com/uc?id=1km3zGQKPfZHPsj8owbjz92eVCOqVDACP");//h7
+    document.getElementById("mainlogo").setAttribute("src", "https://drive.google.com/uc?id=1bHj26TMEJ-1FGljnQurZcMBp2UEKamHq");//h4
+    document.getElementById("small-screen-logo").setAttribute("src", "https://drive.google.com/uc?id=1BdfMsOgw8mFt4J852fh3JUdT4nzYeSxs");//h
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button-2").textContent = "Light Mode";
 }
