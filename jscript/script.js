@@ -123,3 +123,6 @@ function to_dark_2(){
 $(window).on('unload', function(){
     $(window).scrollTop(0);
  });
+
+if(error.message == 'Something went wrong'){
+}
