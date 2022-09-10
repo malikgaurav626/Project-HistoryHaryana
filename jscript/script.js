@@ -104,17 +104,17 @@ function to_light_2(){
     document.getElementById("light-dark-button-2").textContent = "Dark Mode";
 }
 function to_dark(){
-    document.getElementById("mainlogo1").setAttribute("src", "Haryana7.png");//h7
-    document.getElementById("mainlogo").setAttribute("src", "Haryana4.png");//h4
-    document.getElementById("small-screen-logo").setAttribute("src", "haryana.png");//h
+    document.getElementById("mainlogo1").setAttribute("src", "logos/Haryana7.png");//h7
+    document.getElementById("mainlogo").setAttribute("src", "logos/Haryana4.png");//h4
+    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana.png");//h
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button").textContent = "Light Mode";
     document.getElementById("favicon").setAttribute("href", "favicons/favicon.ico");
 }
 function to_dark_2(){
-    document.getElementById("mainlogo1").setAttribute("src", "Haryana7.png");//h7
-    document.getElementById("mainlogo").setAttribute("src", "Haryana4.png");//h4
-    document.getElementById("small-screen-logo").setAttribute("src", "haryana.png");//h
+    document.getElementById("mainlogo1").setAttribute("src", "logos/Haryana7.png");//h7
+    document.getElementById("mainlogo").setAttribute("src", "logos/Haryana4.png");//h4
+    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana.png");//h
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button-2").textContent = "Light Mode";
 }
