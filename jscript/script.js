@@ -89,32 +89,32 @@ function logo_link_swap_small(){
 
 
 function to_light(){
-    document.getElementById("mainlogo1").setAttribute("src", "logos/haryana9.png");
-    document.getElementById("mainlogo").setAttribute("src", "logos/haryana4-light.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana-light.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana9.png");
+    document.getElementById("mainlogo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana4-light.png");
+    document.getElementById("small-screen-logo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana-light.png");
     document.getElementById("scroll-logo").style.color = "#efd033";
     document.getElementById("light-dark-button").textContent = "Dark Mode";
     document.getElementById("favicon").setAttribute("href", "favicons/favicon_blue_blue.ico");
 }
 function to_light_2(){
-    document.getElementById("mainlogo1").setAttribute("src", "logos/haryana9.png");
-    document.getElementById("mainlogo").setAttribute("src", "logos/haryana4-light.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana-light.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana9.png");
+    document.getElementById("mainlogo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana4-light.png");
+    document.getElementById("small-screen-logo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana-light.png");
     document.getElementById("scroll-logo").style.color = "#efd033";
     document.getElementById("light-dark-button-2").textContent = "Dark Mode";
 }
 function to_dark(){
-    document.getElementById("mainlogo1").setAttribute("src", "logos/haryana7.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana7.png");
     document.getElementById("mainlogo").setAttribute("src", "logos/haryana4.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana.png");
+    document.getElementById("small-screen-logo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana.png");
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button").textContent = "Light Mode";
     document.getElementById("favicon").setAttribute("href", "favicons/favicon.ico");
 }
 function to_dark_2(){
-    document.getElementById("mainlogo1").setAttribute("src", "logos/haryana7.png");
-    document.getElementById("mainlogo").setAttribute("src", "logos/haryana4.png");
-    document.getElementById("small-screen-logo").setAttribute("src", "logos/haryana.png");
+    document.getElementById("mainlogo1").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana7.png");
+    document.getElementById("mainlogo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana4.png");
+    document.getElementById("small-screen-logo").setAttribute("src", "https://github.com/malikgaurav626/Project-HistoryHaryana/tree/main/logos/haryana.png");
     document.getElementById("scroll-logo").style.color = "#e03c3c";
     document.getElementById("light-dark-button-2").textContent = "Light Mode";
 }
