@@ -367,6 +367,8 @@ td{
     font-family: Binchotan_Sharp;
     padding: 3px 5px;
     transition: 0.4s;
+    position: relative;
+    left: -3px;
 }
 .phone-button:hover{
     color: white;
@@ -430,7 +432,7 @@ a:visited{
 }
 #light-dark-button-2{
     position: relative;
-    left: -12px;
+    left: -15px;
 }
 .image-container{
     color: white;
