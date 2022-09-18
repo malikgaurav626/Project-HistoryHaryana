@@ -368,7 +368,8 @@ td{
     padding: 3px 5px;
     transition: 0.4s;
     position: relative;
-    left: -3px;
+    left: -5px;
+    font-size: 10px;
 }
 .phone-button:hover{
     color: white;
@@ -378,7 +379,7 @@ td{
 .phone-button-right{
     color: black;
     float: right;
-    font-size: small;
+    font-size: 10px;
     margin-top: 2px;
     text-decoration: none;
     padding: 3px 6px;
@@ -424,15 +425,18 @@ a:visited{
     color: black;
     transition: 0.4s;
     background-color: white;
-    font-size: x-small;
 }
 .dark-mode-light-mode:hover{
     background-color: black;
     color: white;
 }
+#light-dark-button{
+    font-size: medium;
+}
 #light-dark-button-2{
     position: relative;
-    left: -15px;
+    left: -20px;
+    font-size: 10px;
 }
 .image-container{
     color: white;
